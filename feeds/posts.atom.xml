@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Alex's Blog</title><link href="http://akg314.github.io/" rel="alternate"></link><link href="http://akg314.github.io/feeds/posts.atom.xml" rel="self"></link><id>http://akg314.github.io/</id><updated>2019-03-06T20:00:00+09:00</updated><entry><title>Pandas Tricks Part 1</title><link href="http://akg314.github.io/pandas-tricks-1.html" rel="alternate"></link><published>2019-03-06T20:00:00+09:00</published><updated>2019-03-06T20:00:00+09:00</updated><author><name>Alexandra Gore</name></author><id>tag:akg314.github.io,2019-03-06:pandas-tricks-1.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alex's Blog</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2019-03-06T20:00:00+09:00</updated><entry><title>Pandas Tricks Part 1</title><link href="/pandas-tricks-1.html" rel="alternate"></link><published>2019-03-06T20:00:00+09:00</published><updated>2019-03-06T20:00:00+09:00</updated><author><name>Alexandra Gore</name></author><id>tag:,2019-03-06:pandas-tricks-1.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
